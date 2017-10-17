@@ -6,7 +6,7 @@
   "dependencies": {
     "mocha": "^3.4.2",
     "original-require": "^1.0.1",
-    "solc": "git://github.com/mickys/solc-js.git#54644ebe9c40b78cbc9f58da752eddd01e33af8e"
+    "solc": "git://github.com/mickys/solc-js.git#edabdf1b85818a323c42af61b60c908e7a34009a"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.16",
